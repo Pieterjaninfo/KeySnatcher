@@ -3,6 +3,12 @@ from time import time
 print('Program started...')
 
 KEY_REGEX = '[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}'
+
+# Unused regex
+KEY_REGEX2 = '[a-zA-Z0-9]{15}'
+KEY_REGEX3 = '[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}-[a-zA-Z0-9]{5}'
+KEY_REGEX4 = '[a-zA-Z0-9]{25}'
+
 reg = re.compile(KEY_REGEX)
 
 

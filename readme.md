@@ -6,6 +6,9 @@ Platforms to be added:
 * Twitch
 * Discord
 
+Other things to be added:
+* Remember used keys (store hashes)
+
                                  ------------
                                 |  Work in   |
                                 |  progress  |
